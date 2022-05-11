@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`first should increase counter 1`] = `
+<div
+  className="productCard custom-class-product-card"
+>
+  <h1>
+    Hello Test - Counter!
+  </h1>
+  <span>
+    0
+  </span>
+  <button
+    onClick={[Function]}
+  >
+    +1
+  </button>
+</div>
+`;
+
+exports[`first should return a correctly rendered component 1`] = `
+<div
+  className="productCard custom-class-product-card"
+>
+  <h1>
+    Hello Test!
+  </h1>
+</div>
+`;

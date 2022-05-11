@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`first should first 1`] = `
+<img
+  alt="Product img"
+  className="productImg custom-class-img"
+  src="./../../example"
+  style={
+    Object {
+      "display": "flex",
+      "justifyContent": "center",
+    }
+  }
+/>
+`;
+
+exports[`first should second 1`] = `
+<div
+  className="productCard undefined"
+>
+  <img
+    alt="Product img"
+    className="productImg custom-class-img"
+    src="img/test"
+  />
+</div>
+`;
