@@ -9,7 +9,7 @@ const App = () => {
       <ProductCard
         product={{
           id: '1',
-          title: 'Coffee mug - card',
+          title: 'Coffee mug - card!',
           // img: './coffee-mug.png',
         }}
         initialValues={{

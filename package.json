@@ -1,5 +1,5 @@
 {
-  "version": "0.0.1",
+  "version": "1.0.0-rc",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -11,7 +11,7 @@
     "url": "https://github.com/AlexMartin998/am-product-card",
     "type": "git"
   },
-  "homepage": "https://www.linkedin.com/in/adrian-changalombo-iba",
+  "homepage": "https://portfolio-carrera-adrian.netlify.app/",
   "engines": {
     "node": ">=10"
   },
