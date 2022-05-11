@@ -1,6 +1,6 @@
-# DO Product Card
+# AM Product Card
 
-Test package of npm deployments
+Test package for npm deployments
 
 ## Example:
 
@@ -10,14 +10,14 @@ import {
   ProductImg,
   ProductTitle,
   ProductButtons,
-} from 'do-product-card';
+} from 'am-product-card';
 ```
 
 ```jsx
 <ProductCard
   product={product}
   initialValues={{
-    count: 6,
+    count: 7,
     maxCount: 10,
   }}
 >
